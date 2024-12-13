@@ -1,5 +1,5 @@
 # certificate-automation
-Automating certificate issual for an online platform (geeta pariwar)
+Automating certificate issual for an online platform (Geeta Pariwar)
 
 ## Requirements
 - Python (Version 3.7 or higher)
