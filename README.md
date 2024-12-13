@@ -112,4 +112,5 @@ prn_adhyayam_dict = {
 ## Notes
 - Adjust the sleep times in the script if the platform is slow to load.
 - The script assumes a standard browser layout for Geeta Pariwar's platform. If the layout changes, you may need to update the element locators (IDs/XPATHs).
+
 For additional help or questions, feel free to open an issue or reach out to me.
