@@ -10,14 +10,14 @@ Automating certificate issual for an online platform (geeta pariwar)
 ### Installation Steps
 
 1. Clone the Repository
-'''console
+'''bash
 git clone <repository-link>
 cd certificate-automation
 '''
 
 2. Install Dependencies
    Use the requirements.txt file to install the necessary Python libraries.
-'''console
+'''bash
 pip install -r requirements.txt
 '''
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 - Steps to Start Chrome with Debugging Mode:
     - Close all running instances of Chrome.
     - Open a terminal or command prompt and run:
-    '''console
+    '''bash
     "C:/Program Files/Google/Chrome/Application/chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:/ChromeProfile"
     '''
       - Replace the path with the actual installation directory of Chrome on your system.
