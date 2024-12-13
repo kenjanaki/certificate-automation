@@ -11,7 +11,7 @@ Automating certificate issual for an online platform (geeta pariwar)
 
 ### Clone the Repository
 ```bash
-git clone <repository-link>
+git clone https://github.com/kenjanaki/certificate-automation.git
 cd certificate-automation
 ```
 
